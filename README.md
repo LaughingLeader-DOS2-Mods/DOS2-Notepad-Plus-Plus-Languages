@@ -18,5 +18,6 @@ Note: **Both the Osiris and DOS2 Stats languages aren't automatically loaded, si
 * Zenburn
 	* Generated Stats
 	* Osiris (Story Scripting)
+	* Behavior (Object Scripting)
 
 Zenburn is a style available within Notepad++, set via Settings -> Style Configurator -> Select Theme -> Zenburn.
