@@ -13,5 +13,10 @@ Note: **Both the Osiris and DOS2 Stats languages aren't automatically loaded, si
 
 ## Current Languages:
 
-* Stats
-* Osiris (Story Scripting)
+### Styles:
+
+* Zenburn
+	* Generated Stats
+	* Osiris (Story Scripting)
+
+Zenburn is a style available within Notepad++, set via Settings -> Style Configurator -> Select Theme -> Zenburn.
